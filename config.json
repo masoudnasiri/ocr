@@ -1,0 +1,4 @@
+{
+    "yolo_model_path": "models/bestold.pt",
+    "tesseract_path": "C:/Program Files/Tesseract-OCR/tesseract.exe"
+}
